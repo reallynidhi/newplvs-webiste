@@ -11,7 +11,7 @@ const Home = () => {
         <div className="mb-20">
           <div className="relative w-full bg-white rounded-lg p-4">
             <img 
-              src="/pipeline.svg"
+              src="/download.svg"
               alt="Research & Development Pipeline"
               className="w-full h-auto"
             />
